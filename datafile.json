@@ -1,0 +1,21 @@
+[{
+  "userId":1,
+  "name": "harikrishna",
+  "email": "harisrui@gmail.com"
+},
+{
+  "userId": 2,
+  "name": "sivarames",
+  "email": "siav@gmail.com"
+},
+{
+  "userId": 3,
+  "name": "ramanavim",
+  "email": "ramesh@gmail.com"
+},
+{
+  "userId": 4,
+  "name": "sidduram",
+  "email": "kasisidu@gmail.com"
+}
+]
